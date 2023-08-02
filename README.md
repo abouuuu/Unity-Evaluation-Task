@@ -6,7 +6,7 @@ To use the project, follow these steps:
 
 1. Clone or download the project to your local machine.
 2. Open the project in Unity.
-3. Open the ExampleScene scene located in the Assets/Scenes folder to see the actions that make up the sequence.
+3. Open the SampleScene scene located in the Assets/Scenes folder.
 4. Press the play button to run the sequence.
 
    
