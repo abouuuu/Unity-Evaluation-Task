@@ -11,7 +11,7 @@ To use the project, follow these steps:
 
    
 ## Customization
-You can customize the sequence by modifying the actions in the ExampleScene script. You can add or remove animations, change the audio clip, modify the camera movement, and enable/disable different game objects.
+You can customize the sequence by modifying the actions in the ExampleScene script. You can add or remove animations, change/add audio clips, modify the camera movement, and enable/disable different game objects.
 
 ## How it Works
 - The SequenceController script is responsible for sequencing the actions in the sequence. Each action is a class that inherits from the Action class and implements the Execute method. The SequenceController script creates a list of actions and executes them in sequence.
